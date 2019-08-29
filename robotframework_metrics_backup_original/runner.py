@@ -20,7 +20,7 @@ def parse_options():
         '--logo',
         dest='logo',
         default='https://yt3.ggpht.com/-pYqRhVGc2IA/AAAAAAAAAAI/AAAAAAAAAAA/VfKBDl03gnk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg',
-        help="User logo (default: Stormshield Logo )"
+        help="User logo (default: dummy wifi image )"
     )
 
     general.add_argument(
